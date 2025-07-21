@@ -1,0 +1,6 @@
+{
+    "whitelisted": ["sarcoids_computer", "my_computer"],
+    "sarcoids_computer": {
+        "last_seen": 1700000000
+    }
+}
